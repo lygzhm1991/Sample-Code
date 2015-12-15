@@ -10,8 +10,10 @@ The customers could change their own password, request deposit, buy fund and sel
 Before initialisation, please drop original test database and create another database called “test” in MySQL. For the connivence of testing, the application will set up one customer account and two employee accounts once initialisation.
 
 Employee Account1: User Name : admin
-		               Password : admin
+		   Password : admin
+		   
 Employee Account2: User Name : Jason
                    Password: 1
+                   
 Customer Account:  User Name : Jeff
                    Password : 1
